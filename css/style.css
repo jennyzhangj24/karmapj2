@@ -162,3 +162,36 @@ button:hover{
 	border-color:#cf3d0e;
 	cursor:pointer;
 }
+
+/*the three case image*/
+.cases{
+	background-color: #fff;
+	overflow:hidden;
+	padding-bottom:5rem;
+}
+.cases .content{
+	margin-top:7.875rem;
+	padding:none;
+	color: #1d1e21;
+	text-align: center;
+
+}
+.cases h2{
+	font-size: 2.875rem;
+	margin:1.625rem 0 3.1225rem;
+	font-weight: 300;
+	font-family: 'Roboto',sans-serif;
+}
+.cases .devices >li{
+    width: 33%;
+    display: inline-block;
+}
+.cases .devices p{
+	font-weight: 300;
+    font-size: 1.563rem;
+    margin: 2.5rem 0px 1.875rem;
+    font-family: 'Roboto',sans-serif;
+}
+
+
+
